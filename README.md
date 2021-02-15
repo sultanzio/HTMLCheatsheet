@@ -1,4 +1,5 @@
-# HTML
+# HTML Cheatsheet
+
 
 ## Basic structure
 
@@ -268,8 +269,4 @@ Tag baru di section tag
 
 [https://developer.mozilla.org/en-US/docs/Web/HTML/](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-Thanks for reading! You have question? Comment now :)
-
-Follow my Github : [https://github.com/sultanzio](https://github.com/sultanzio)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28a631e3-ba64-4372-b166-827787433179/13131512.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28a631e3-ba64-4372-b166-827787433179/13131512.gif)
+Thanks for reading! You have question? Contact me :)
